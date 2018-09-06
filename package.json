@@ -47,6 +47,6 @@
   },
   "devDependencies": {
     "jasmine": "^2.4.1",
-    "supertest": "^3.0.0"
+    "supertest": "^3.3.0"
   }
 }
